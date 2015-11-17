@@ -3,11 +3,10 @@ Functions every developer needs to make thier lives easier
 ####NOTE:Never use a variable placeholder the same as a functions parameter
 *Contributions are gladly welcome*
 
+
+
 <script async src="paypal-button.min.js?merchant=WAP7D9ZU95JQ2"
-    data-button="donate"
-    data-type="form"
-    data-name="My donation"
-    data-amount="1.00"
+    data-button="buynow"
 ></script>
 
 ##Read
