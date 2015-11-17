@@ -183,21 +183,24 @@ dbConnect($host,$user,$pass,$db);
 ####Description:
 This function creates an easy,fast, and seamless way of connect to a database as fast as possible and it only has to be used once
 ####Parameters:
-Host:
+Host:This is where your connecting to most likely "localhost"(required field)
 
-User:
+User: This is the username you use to log into your database(required field)
 
-Pass:
+Pass: This is the password you use to log into your database(required field)
 
-Db:
+Db:This is the name of the database your trying to connect to(required field)
 
 ***
 Example:
 ```php
-
+dbConnect("localhost","FlamingGenius","********","FlamingGenius_db");
+if(dbConnect return == TRUE){
+ echo alert("Success");
+}
 ```
 OUTPUT
 ```php
-
+Success
 ```
 ***
