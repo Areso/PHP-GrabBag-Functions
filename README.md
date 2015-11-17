@@ -1,6 +1,7 @@
 # PHP-GrabBag-Functions
 Functions every developer needs to make thier lives easier
 ####NOTE:Never use a variable placeholder the same as a functions parameter
+*Contributions are gladly appreciated*
 
 <script async src="paypal-button.min.js?merchant=deathcrow4561@gmail.com"
     data-button="donate"
