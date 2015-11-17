@@ -175,3 +175,29 @@ OUTPUT
 3
 ```
 ***
+
+##Db Connect
+```php
+dbConnect($host,$user,$pass,$db);
+```
+####Description:
+This function creates an easy,fast, and seamless way of connect to a database as fast as possible and it only has to be used once
+####Parameters:
+Host:
+
+User:
+
+Pass:
+
+Db:
+
+***
+Example:
+```php
+
+```
+OUTPUT
+```php
+
+```
+***
