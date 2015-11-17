@@ -3,7 +3,7 @@ Functions every developer needs to make thier lives easier
 ####NOTE:Never use a variable placeholder the same as a functions parameter
 *Contributions are gladly welcome*
 
-<script async src="paypal-button.min.js?merchant=deathcrow4561@gmail.com"
+<script async src="paypal-button.min.js?merchant=WAP7D9ZU95JQ2"
     data-button="donate"
     data-type="form"
     data-name="My donation"
@@ -195,7 +195,7 @@ Db:This is the name of the database your trying to connect to(required field)
 Example:
 ```php
 dbConnect("localhost","FlamingGenius","********","FlamingGenius_db");
-if(dbConnect return == TRUE){
+if(dbConnect  == true){
  echo alert("Success");
 }
 ```
