@@ -48,5 +48,6 @@ function alert_rand($delay,$msgArray,$repeats){
 function dbConnect($host,$user,$pass,$db){
  $connect = mysql_connect($host,$user,$pass);
  $database = mysql_select_db($db);
+ return true;
 }
 ?>
